@@ -1,5 +1,5 @@
-### Hey!! Nice to see you.
-Switch Language To Chinese[简体中文](README.ZH_CN.md)
+## Hey!! Nice to see you.
+[English](README.md)|[简体中文](README.ZH_CN.md)
 
 Welcome to my page!
 - 🌱 I’m currently learning C++/JAVA/CUDA, striving to become an excellent programmer.
