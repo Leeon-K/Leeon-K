@@ -1,5 +1,5 @@
 ### 你好！我的朋友~！
-选择语言：[English](README.md)
+[English](README.md) | [简体中文](README.ZH_CN.md) 
 
 欢迎来到我的主页!
 - 🌱 我现在正在学习C++/JAVA/CUDA开发，目标是成为优秀的全栈开发工程师。
