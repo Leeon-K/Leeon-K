@@ -7,7 +7,10 @@ Welcome to my page!
 - 📫 How to reach me: 994196803@qq.com
 - ⚡ Fun fact: I enjoy trying various sports, including frisbee, swimming, badminton, hiking, skateboarding and so on.
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lick0920&show_icons=true&theme=radical)
+
 <!--
 **Lick0920/Lick0920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
