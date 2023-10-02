@@ -1,13 +1,13 @@
-### 你好！我的朋友~！
+![4C5B5BE6](https://github.com/Lick0920/Lick0920/assets/48170673/48b9b33c-c4b2-4bfc-aa7a-dbc69cf2fc85)### 你好！我的朋友~！
 选择语言：[English](README.md)
 
 欢迎来到我的主页!
 - 🌱 我现在正在学习C++/JAVA开发，是个初学者，目标是成为全栈开发。
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 Ask me about ...喜欢🎞
 - 📫 我的邮箱: 994196803@qq.com
-- ⚡ 有趣的点: 我喜欢三分钟热度尝试各类运动,包括飞盘、游泳、羽毛球 ⛷including frisbee, swimming, badminton, hiking, skateboarding and so on.
+- ⚡ 有趣的点: 我喜欢三分钟热度尝试各类运动,包括🥏飞盘、🎱台球、🏊‍♂️游泳、🏸羽毛球、🏂滑雪、 🚶‍♂️徒步...
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
