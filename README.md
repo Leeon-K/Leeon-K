@@ -2,28 +2,25 @@
 Switch Language To Chinese[简体中文](README.ZH_CN.md)
 
 Welcome to my page!
-- 🌱 I’m currently learning C++/JAVA, striving to become an excellent programmer.
-- 👯 I’m very interested in Computer Science,Multimodal,Large Language Model(LLM),and their applications.
-- 🤔 I’m looking for help on how to efficiently improve programming skills, learn various new knowledge effectively, stay updated with advancements in various fields.Look forward to progressing together with you.
-- 💬 Feel free to talk to me about anything.
+- 🌱 I’m currently learning C++/JAVA/CUDA, striving to become an excellent programmer.
+- 👯 I’m very interested in Computer Vision,Multimodal,Large Language Model(LLM),and their applications.
+- 🤔 I’m looking for help on how to efficiently improve programming skills, stay updated with advancements in various fields and manage time effectively.Look forward to progressing together with you.
+- 💬 Feel free to talk to me about anything📩.
 - 📫 How to reach me: 994196803@qq.com
-- ⚡ Fun fact: I enjoy trying various sports, including🥏frisbee,🎱billiards,🏊‍♂️swimming、🏸badminton、🏂skateboarding、 🚶‍♂️hiking...
+- ⚡ Fun fact: I enjoy trying various sports, including🥏frisbees,🎱billiards,🏊‍♂️swimming，🏸badminton，🏂skateboarding，🚶‍♂️hiking...
 
-<img align="right" alt="GIF" src="src/assert/giphy.gif" width="84" title="Say HI"> <details><summary>(Click to expand) <em><b>I love connecting with different people</b> so if you want to talk with me.Feel free to mail me or raise an issue." </b></a>, <b>I'll be happy to meet you more!</b> : )</em></summary>
+<img align="right" alt="GIF" src="src/assert/giphy.gif" width="84" title="Say HI"> <details><summary>(Click to expand) <em><b>I love connecting with different people</b> so if you want to talk with me.Feel free to mail me or scan QRcode below." </b></a>, <b>I'll be happy to meet you more!</b> : )</em></summary>
 
 <!--my introduction start-->
-<!-- The one on the left is [Charmve](https://github.com/Charmve)（益达）, he will speak for me in the virtual world. -->
-
-
+Wechat QRcode
+<code><img height="250" src="src\assert\png\wechat_QRcode.png" alt="PyTorch" title="PyTorch"></code>
 ---
 </details>
 <!--my introduction end -->
 
 <!--START_SECTION:waka-->
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lick0920&show_icons=true&theme=radical)
+![Lion's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lick0920&show_icons=true&theme=radical)
 <!--END_SECTION:waka-->
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lick0920&show_icons=true&locale=en&layout=compact" alt="Lick0920" /></p>
 
 **Languages and Frameworks**
 
@@ -48,14 +45,5 @@ Welcome to my page!
     
 <br>
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-C/C++      5 hrs 2 mins    ██████████████░░░░░░░░░░░   56.51 % 
-PyTorch    1 hr 11 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-Python     1 hr 7 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-Markdown   34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
-JSON       17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-Others     38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
-```
-<!--END_SECTION:waka-->
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lick0920&show_icons=true&locale=en&layout=compact" alt="Lick0920" /></p>
