@@ -18,11 +18,9 @@ Wechat QRcode
 </details>
 <!--my introduction end -->
 
-<!--START_SECTION:waka-->
 <a target="_blank" rel="noopener noreferrer nofollow" >
   <img  height="140px" src="https://github-readme-stats.vercel.app/api?username=Lick0920&show_icons=true&theme=radical&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=synthwave&locale=en&hide_title=true&hide_border=true"/>
 </a>
-<!--END_SECTION:waka-->
 
 **Languages and Frameworks**
 
