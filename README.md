@@ -52,11 +52,6 @@ title="PyCharm"></code>
     
 <br>
 <!--START_SECTION:waka-->
-Java                  7 hrs 57 mins   █████████████████▓░░░░░░░   70.36 %
-Markdown              37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
-JSON                  36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
-SQL                   32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 %
-YAML                  26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
 <!--END_SECTION:waka-->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lick0920&show_icons=true&locale=en&layout=compact" alt="Lick0920" /></p>
