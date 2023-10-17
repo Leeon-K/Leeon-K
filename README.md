@@ -57,11 +57,11 @@ title="PyCharm"></code>
 <!--START_SECTION:waka-->
 
 ```txt
-Python                     15 hrs 28 mins  ████████████▓░░░░░░░░░░░░   50.38 %
-TypeScript                 5 hrs 2 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.39 %
-Java                       3 hrs 55 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.78 %
-YAML                       2 hrs 11 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 %
-Docker                     1 hr 28 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
+Python                     18 hrs 56 mins  ██████████████▓░░░░░░░░░░   58.92 %
+TypeScript                 4 hrs 44 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.76 %
+Java                       3 hrs 42 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.54 %
+YAML                       1 hr 30 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
+Docker                     1 hr 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
 ```
 
 <!--END_SECTION:waka-->
