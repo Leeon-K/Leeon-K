@@ -2,7 +2,7 @@
 [English](README.md)|[简体中文](README.ZH_CN.md)
 
 Welcome to my page!
-- 🌱 I’m currently learning JAVA/C++/CUDA, striving to become an excellent full stack programmer.
+- 🌱 I’m currently learning C++/CUDA, striving to become an excellent full stack programmer.
 - 👯 I’m very interested in Computer Vision,Multimodal,Large Language Model(LLM),and their applications.
 - 🤔 I’m looking for help on how to efficiently improve programming skills, stay updated with advancements in various fields and manage time effectively.Look forward to progressing together with you.
 - 💬 Feel free to talk to me about anything📩.
@@ -33,6 +33,7 @@ Wechat QRcode
 <code><img height="20" width="22" src="https://user-images.githubusercontent.com/29084184/183043709-bf66d400-014c-4332-861a-7edc5ae610b9.png" alt="Qt" title="Qt"></code>
 <code><img height="20" src="src/assert/icons/pytorch-logo.png" alt="PyTorch" title="PyTorch"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" alt="TensorFlow" title="TensorFlow"></code>
+<code><img height="20" src="https://pic3.zhimg.com/50/v2-1354885f5150c2849b7eb02c70571cff_720w.jpg?source=54b3c3a5" alt="CUDA" title="CUDA"></code>
 
 **Tools and Environments**
 
