@@ -58,8 +58,7 @@ title="PyCharm"></code>
 <!--START_SECTION:waka-->
 
 ```txt
-Python   47 mins         ████████████████████████░   95.52 %
-JSON     2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
+Python   1 hr 11 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
