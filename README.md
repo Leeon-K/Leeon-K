@@ -3,7 +3,7 @@
 
 Welcome to my page!
 - 🌱 I’m currently learning C++/CUDA, striving to become an excellent full stack programmer.
-- 👯 I’m very interested in Computer Vision,Multimodal,Large Language Model(LLM),and their applications.
+- 👯 I’m very interested in Computer Vision,Multimodal,Large Language Model(LLM),and their applications.It's my zhihu blog ![leeon的知乎主页](https://www.zhihu.com/people/fybxrkkx/posts)
 - 🤔 I’m looking for help on how to efficiently improve programming skills, stay updated with advancements in various fields and manage time effectively.Look forward to progressing together with you.
 - 💬 Feel free to talk to me about anything📩.
 - 📫 How to reach me: 994196803@qq.com
