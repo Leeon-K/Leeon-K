@@ -3,7 +3,7 @@
 
 Welcome to my page!
 - 🌱 I’m currently learning C++/CUDA, striving to become an excellent full stack programmer.
-- 👯 I’m very interested in Computer Vision,Multimodal,Large Language Model(LLM),and their applications.
+- 👯 I’m very interested in Computer Vision,Multimodal,Large Language Model(LLM),and their applications, especially in LLM Inference&Accelerate Algo.
 - 💬 I'm trying to write more technical blogs on Zhihu, and it's my personal homepage [leeon's zhihu](https://www.zhihu.com/people/fybxrkkx/posts)
 - 🤔 I’m looking for help on how to efficiently improve programming skills, stay updated with advancements in various fields and manage time effectively.Look forward to progressing together with you.
 - 📫 How to reach me: 994196803@qq.com
@@ -64,3 +64,6 @@ Python   0 secs          ██████████████████�
 <!--END_SECTION:waka-->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lick0920&show_icons=true&locale=en&layout=compact" alt="Lick0920" /></p>
+
+🚧  **MY PLAN:**
+I am looking for an internship in the field of large-scale model inference optimization, hoping to learn and grow in a team with a strong technical atmosphere.
