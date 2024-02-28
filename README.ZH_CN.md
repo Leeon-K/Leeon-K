@@ -2,10 +2,10 @@
 [English](README.md) | [简体中文](README.ZH_CN.md) 
 
 欢迎来到我的主页!
-- 🌱 我现在正在学习JAVA/C++/CUDA开发，目标是成为优秀的全栈开发工程师。
-- 👯 我对计算机视觉，多模态融合模型，大语言预训练模型（LLM）及他们的应用保持兴趣。
+- 🌱 我现在正在学习C++/CUDA开发，目标是成为优秀的全栈开发工程师。
+- 👯 我对计算机视觉，多模态融合模型，大语言预训练模型（LLM）部署及应用保持兴趣，尤其是大模型推理部署优化方向。
+- 💬 我正在尝试坚持写技术博客，我的个人主页：[leeon's zhihu](https://www.zhihu.com/people/fybxrkkx/posts)
 - 🤔 我正在寻找高效提升编程能力，持续跟进AI领域新知识以及高效管理时间的方法，期待与你一起进步。
-- 💬 如果你有任何想和我交流的问题，欢迎随时给我发邮件📩~！
 - 📫 我的邮箱: 994196803@qq.com
 - ⚡ 有趣的点: 我喜欢三分钟热度尝试各类运动,包括🥏飞盘、🎱台球、🏊‍♂️游泳、🏸羽毛球、🏂滑雪、 🚶‍♂️徒步...
 
@@ -59,8 +59,6 @@ title="PyCharm"></code>
 <!--END_SECTION:waka-->
 
 🚧  **我的近期计划:**
-- [ ] 结合AIGC完成**文档综合智能分析平台**JAVA项目。
-- [ ] MyTinySTL项目源码剖析及实现
-- [ ] Pose-state-machine-based_Video_Anomaly_detect模型新方法改进尝试
+- 我在寻找大模型推理优化方向的实习，期待在一个有浓厚技术氛围的团队学习成长。
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lick0920&show_icons=true&locale=en&layout=compact" alt="Lick0920" /></p>
