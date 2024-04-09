@@ -58,8 +58,9 @@ title="PyCharm"></code>
 <!--START_SECTION:waka-->
 
 ```txt
-Python   2 hrs 16 mins   ██████████████████████▒░░   89.82 %
-MATLAB   15 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.18 %
+Python   1 hr 27 mins    ███████████████████▓░░░░░   78.27 %
+MATLAB   15 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.76 %
+Cuda     8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 %
 ```
 
 <!--END_SECTION:waka-->
