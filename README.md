@@ -58,8 +58,8 @@ title="PyCharm"></code>
 <!--START_SECTION:waka-->
 
 ```txt
-Python     6 hrs 51 mins   ████████████████████████▓   98.33 %
-Markdown   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+Python     6 hrs 33 mins   ████████████████████████▓   98.26 %
+Markdown   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
 JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
