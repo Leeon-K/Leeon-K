@@ -19,7 +19,7 @@ Wechat QRcode
 <!--my introduction end -->
 
 <a target="_blank" rel="noopener noreferrer nofollow" >
-  <img  height="140px" src="https://github-readme-stats.vercel.app/api?username=Lick0920&show_icons=true&theme=radical&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=synthwave&locale=en&hide_title=true&hide_border=true"/>
+  <img  height="140px" src="https://github-readme-stats.vercel.app/api?username=Leeon-K&show_icons=true&theme=radical&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=synthwave&locale=en&hide_title=true&hide_border=true"/>
 </a>
 
 **Languages and Frameworks**
@@ -63,7 +63,7 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lick0920&show_icons=true&locale=en&layout=compact" alt="Lick0920" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Leeon-K&show_icons=true&locale=en&layout=compact" alt="Leeon-K" /></p>
 
 🚧  **MY PLAN:**
 I am looking for an internship in the field of large-scale model inference optimization, hoping to learn and grow in a team with a strong technical atmosphere.
