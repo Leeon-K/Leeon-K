@@ -2,7 +2,7 @@
 [English](README.md) | [简体中文](README.ZH_CN.md) 
 
 欢迎来到我的主页!
-- 🌱 我现在正在学习C++/CUDA开发，目标是成为优秀的全栈开发工程师。
+- 🌱 我的编程语言：Python/C++/CUDA开发，希望做出一些有意思的工作。
 - 👯 我对计算机视觉，多模态融合模型，大语言预训练模型（LLM）部署及应用保持兴趣，尤其是大模型推理部署优化方向。
 - 💬 我正在尝试坚持写技术博客，我的个人主页：[leeon's zhihu](https://www.zhihu.com/people/fybxrkkx/posts)
 - 🤔 我正在寻找高效提升编程能力，持续跟进AI领域新知识以及高效管理时间的方法，期待与你一起进步。
@@ -22,7 +22,7 @@ Wechat QRcode
 
 <!--START_SECTION:waka-->
 <a target="_blank" rel="noopener noreferrer nofollow" >
-  <img  height="140px" src="https://github-readme-stats.vercel.app/api?username=Lick0920&show_icons=true&theme=radical&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=synthwave&locale=cn&hide_title=true&hide_border=true"/>
+  <img  height="140px" src="https://github-readme-stats.vercel.app/api?username=Leeon-K&show_icons=true&theme=radical&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=synthwave&locale=cn&hide_title=true&hide_border=true"/>
 </a>
 <!--END_SECTION:waka-->
 
@@ -50,7 +50,6 @@ title="PyCharm"></code>
 title="PyCharm"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/29084184/128668555-59d96329-2e64-4370-bfdc-89bf7a12aea8.png" alt="ARM-Keil" title="ARM-Keil"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" alt="Markdown" title="MarkDown"></code>
-<code><img height="20" src="https://camo.githubusercontent.com/ce9fb3389462f2c9444f863e410f0d17d04b216beba8749a015011887eadfbaf/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6f70656e63762f6f70656e63762d69636f6e2e737667" alt="OpenCV" title="OpenCV"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" alt="Vim" title="Vim"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" alt="Matlab" title="Matlab"></code>
     
@@ -59,6 +58,6 @@ title="PyCharm"></code>
 <!--END_SECTION:waka-->
 
 🚧  **我的近期计划:**
-- 我在寻找大模型推理优化方向的实习，期待在一个有浓厚技术氛围的团队学习成长。
+- 我在寻找大模型推理优化方向的实习，期待在一个有浓厚学术氛围的团队学习成长。
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lick0920&show_icons=true&locale=en&layout=compact" alt="Lick0920" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Leeon-K&show_icons=true&locale=en&layout=compact" alt="Leeon-K" /></p>
