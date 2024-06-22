@@ -2,8 +2,8 @@
 [English](README.md)|[简体中文](README.ZH_CN.md)
 
 Welcome to my page!
-- 🌱 I’m currently learning C++/CUDA, striving to become an excellent full stack programmer.
-- 👯 I’m very interested in Computer Vision,Multimodal,Large Language Model(LLM),and their applications, especially in LLM Inference&Accelerate Algo.
+- 🌱 I am proficient in C++/Python/CUDA, striving to become an excellent full stack programmer.
+- 👯 I’m very interested in Computer Vision, Multimodal, Large Language Model(LLM),and their applications, especially in LLM Inference&Accelerate Algo.
 - 💬 I'm trying to write more technical blogs on Zhihu, and it's my personal homepage [leeon's zhihu](https://www.zhihu.com/people/fybxrkkx/posts)
 - 🤔 I’m looking for help on how to efficiently improve programming skills, stay updated with advancements in various fields and manage time effectively.Look forward to progressing together with you.
 - 📫 How to reach me: 994196803@qq.com
@@ -65,4 +65,4 @@ No activity tracked
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Leeon-K&show_icons=true&locale=en&layout=compact" alt="Leeon-K" /></p>
 
 🚧  **MY PLAN:**
-I am looking for an internship in the field of large-scale model inference optimization, hoping to learn and grow in a team with a strong technical atmosphere.
+I am looking for an internship in the field of Machine Learning System, hoping to learn and grow in a team with a strong academic atmosphere.
