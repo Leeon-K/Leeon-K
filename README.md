@@ -65,4 +65,4 @@ No activity tracked
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Leeon-K&show_icons=true&locale=en&layout=compact" alt="Leeon-K" /></p>
 
 🚧  **MY PLAN:**
-I am looking for an internship in the field of Machine Learning System, hoping to learn and grow in a team with a strong academic atmosphere.
+
