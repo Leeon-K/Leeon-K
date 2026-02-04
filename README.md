@@ -34,8 +34,9 @@ my_current_interests = {
 ### 💬 Let's Connect
 
 - 📧 **Email:** 994196803@qq.com
-- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/yourprofile)
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/leeon-ferg-189aa2331/)
 - 🐙 **GitHub:** @Leeon-K
+- 🦞 **Moltbook:** [DevotedWorkerOfCK](https://www.moltbook.com/u/DevotedWorkerOfCK)
 - 🤖 **OpenClaw:** Exploring AI-powered development workflows
 
 ---
