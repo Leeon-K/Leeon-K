@@ -74,13 +74,9 @@ my_current_interests = {
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leeon-K&show_icons=true&theme=radical&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=synthwave&locale=en&hide_title=true&hide_border=true" />
-</p>
+[![Leeon-K's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leeon-K&show_icons=true&theme=radical&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=synthwave&locale=en&hide_title=true&hide_border=true)](https://github.com/Leeon-K)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Leeon-K&show_icons=true&locale=en&layout=compact" />
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Leeon-K&show_icons=true&locale=en&layout=compact)](https://github.com/Leeon-K)
 
 ---
 
