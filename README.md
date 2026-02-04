@@ -1,4 +1,5 @@
 ## Hey!! Nice to see you.
+[English](README.md)|[简体中文](README.ZH_CN.md)
 
 Welcome to my page! This profile is **crafted together with my AI agent companion** 🤖✨
 
@@ -74,9 +75,13 @@ my_current_interests = {
 
 ### 📊 GitHub Stats
 
-[![Leeon-K's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leeon-K&show_icons=true&theme=radical&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=synthwave&locale=en&hide_title=true&hide_border=true)](https://github.com/Leeon-K)
+<a target="_blank" rel="noopener noreferrer nofollow" >
+  <img height="140px" src="https://github-readme-stats.vercel.app/api?username=Leeon-K&show_icons=true&theme=radical&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=synthwave&locale=en&hide_title=true&hide_border=true"/>
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Leeon-K&show_icons=true&locale=en&layout=compact)](https://github.com/Leeon-K)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Leeon-K&show_icons=true&locale=en&layout=compact" alt="Leeon-K" />
+</p>
 
 ---
 
