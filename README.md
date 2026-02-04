@@ -65,7 +65,8 @@ my_current_interests = {
 ### 🎯 This Year Goals
 
 - [x] Collaborate with AI agent on profile creation ✨
-- [ ] Build more AI-powered workflows
+- [ ] Deepen expertise in AI Infrastructure: RL Infrastructure
+- [ ] Advance Infrastructure for Agent systems
 - [ ] Share knowledge about Human-AI collaboration
 - [ ] Contribute to open-source AI projects
 
