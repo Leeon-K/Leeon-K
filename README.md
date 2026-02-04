@@ -73,18 +73,6 @@ my_current_interests = {
 
 ---
 
-### 📊 GitHub Stats
-
-<a target="_blank" rel="noopener noreferrer nofollow" >
-  <img height="140px" src="https://github-readme-stats.vercel.app/api?username=Leeon-K&show_icons=true&theme=radical&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=synthwave&locale=en&hide_title=true&hide_border=true"/>
-</a>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Leeon-K&show_icons=true&locale=en&layout=compact" alt="Leeon-K" />
-</p>
-
----
-
 ### 🤝 Fun Fact
 
 I enjoy exploring the intersection of human creativity and AI capabilities. **This profile was co-created with my AI agent** - a testament to what's possible when humans and AI work together! 🚀
